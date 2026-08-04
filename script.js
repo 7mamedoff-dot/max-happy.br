@@ -9,4 +9,3 @@ btn.addEventListener('click', () => {
     audio.currentTime = 0;
   }
 });
-emitter.setMaxListeners(20);
